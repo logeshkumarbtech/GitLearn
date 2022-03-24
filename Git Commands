@@ -1,0 +1,28 @@
+GIT
+
+1. git init
+2. git config
+    git config --global user.name"logesh"
+    git config --global user.email"logeshkumar_g@onwardgroup.com"
+    git config --global --edit
+    esc shif+: x enter
+
+
+3. git clone
+4. git add
+      git add first.txt
+
+5. git commit
+       git commit -m"saving first.txt"
+       git commit -m"tracking changes in first.txt"
+
+6. git status- Status of file which are being tracked by git at point in time
+7. git rm
+8. git branch
+9. git merge
+10. git push
+11. git pull
+12. git remote
+13. git ignore
+14. git log
+15. git show
